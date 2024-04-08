@@ -1,9 +1,7 @@
 _TypeScript & Rust 🦀 • React & React-Native ⚛_
 
 #### currently:
-🧑🏾‍💻 lead eng. [@Cegedim Santé](https://www.cegedim-sante.com/).
-
-* 📱 working on [Maiia Pro](https://www.maiia.com/) app.
+🧑🏾‍💻 lead eng. [@Beedeez](https://www.beedeez.com/).
 
 #### previously
 * 📱 worked on [PMU et Nous](https://apps.apple.com/fr/app/pmu-nous/id1589804231) from october 2022 to december 2023
