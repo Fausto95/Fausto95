@@ -1,4 +1,4 @@
-_TypeScript & Rust 🦀 • React & React-Native ⚛_
+_TypeScript • React & React-Native ⚛_
 
 #### currently:
 🧑🏾‍💻 lead eng. [@Beedeez](https://www.beedeez.com/).
