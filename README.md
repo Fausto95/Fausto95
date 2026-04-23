@@ -1,7 +1,7 @@
 _TypeScript • React & React-Native ⚛_
 
 #### currently:
-🧑🏾‍💻 lead eng (freelancing). [@Avanteam](https://www.avanteam.fr/)).
+🧑🏾‍💻 lead eng (freelancing). [@Avanteam](https://www.avanteam.fr/).
 
 #### previously
 * 📱 worked on [Beedeez](https://apps.apple.com/fr/app/beedeez-training/id1156532290)
